@@ -5,4 +5,4 @@ Leetcode Question 692 (Medium)
 Techniques Used in Question:
 Hashmap, Sorting
 
-https://leetcode.com/problems/top-k-frequent-elements/
+[Link to question](https://leetcode.com/problems/top-k-frequent-elements/)
